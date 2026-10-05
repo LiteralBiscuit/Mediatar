@@ -1,0 +1,15 @@
+H:\Programozás\13\Mediatar\Mediatar\Mediatar\bin\Debug\net8.0\Mediatar.exe
+H:\Programozás\13\Mediatar\Mediatar\Mediatar\bin\Debug\net8.0\Mediatar.deps.json
+H:\Programozás\13\Mediatar\Mediatar\Mediatar\bin\Debug\net8.0\Mediatar.runtimeconfig.json
+H:\Programozás\13\Mediatar\Mediatar\Mediatar\bin\Debug\net8.0\Mediatar.dll
+H:\Programozás\13\Mediatar\Mediatar\Mediatar\bin\Debug\net8.0\Mediatar.pdb
+H:\Programozás\13\Mediatar\Mediatar\Mediatar\obj\Debug\net8.0\Mediatar.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programozás\13\Mediatar\Mediatar\Mediatar\obj\Debug\net8.0\Mediatar.AssemblyInfoInputs.cache
+H:\Programozás\13\Mediatar\Mediatar\Mediatar\obj\Debug\net8.0\Mediatar.AssemblyInfo.cs
+H:\Programozás\13\Mediatar\Mediatar\Mediatar\obj\Debug\net8.0\Mediatar.csproj.CoreCompileInputs.cache
+H:\Programozás\13\Mediatar\Mediatar\Mediatar\obj\Debug\net8.0\Mediatar.sourcelink.json
+H:\Programozás\13\Mediatar\Mediatar\Mediatar\obj\Debug\net8.0\Mediatar.dll
+H:\Programozás\13\Mediatar\Mediatar\Mediatar\obj\Debug\net8.0\refint\Mediatar.dll
+H:\Programozás\13\Mediatar\Mediatar\Mediatar\obj\Debug\net8.0\Mediatar.pdb
+H:\Programozás\13\Mediatar\Mediatar\Mediatar\obj\Debug\net8.0\Mediatar.genruntimeconfig.cache
+H:\Programozás\13\Mediatar\Mediatar\Mediatar\obj\Debug\net8.0\ref\Mediatar.dll

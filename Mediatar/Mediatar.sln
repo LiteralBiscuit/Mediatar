@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediatar", "Mediatar\Mediatar.csproj", "{5DAB7BFB-12CB-431B-B160-4110EC44DDCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DAB7BFB-12CB-431B-B160-4110EC44DDCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DAB7BFB-12CB-431B-B160-4110EC44DDCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DAB7BFB-12CB-431B-B160-4110EC44DDCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DAB7BFB-12CB-431B-B160-4110EC44DDCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBC9BC04-7DBF-40A5-ADAE-5AC627097A3B}
+	EndGlobalSection
+EndGlobal
