@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Mediatar
-build_property.ProjectDir = H:\Programozás\13\Mediatar\Mediatar\Mediatar\
+build_property.ProjectDir = C:\Suli\Code\C#\Mediatar\Mediatar\Mediatar\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

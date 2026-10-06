@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Programozás\\13\\Mediatar\\Mediatar\\Mediatar\\Mediatar.csproj": {}
+    "C:\\Suli\\Code\\C#\\Mediatar\\Mediatar\\Mediatar\\Mediatar.csproj": {}
   },
   "projects": {
-    "H:\\Programozás\\13\\Mediatar\\Mediatar\\Mediatar\\Mediatar.csproj": {
+    "C:\\Suli\\Code\\C#\\Mediatar\\Mediatar\\Mediatar\\Mediatar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Programozás\\13\\Mediatar\\Mediatar\\Mediatar\\Mediatar.csproj",
+        "projectUniqueName": "C:\\Suli\\Code\\C#\\Mediatar\\Mediatar\\Mediatar\\Mediatar.csproj",
         "projectName": "Mediatar",
-        "projectPath": "H:\\Programozás\\13\\Mediatar\\Mediatar\\Mediatar\\Mediatar.csproj",
-        "packagesPath": "C:\\Users\\suto.bence\\.nuget\\packages\\",
-        "outputPath": "H:\\Programozás\\13\\Mediatar\\Mediatar\\Mediatar\\obj\\",
+        "projectPath": "C:\\Suli\\Code\\C#\\Mediatar\\Mediatar\\Mediatar\\Mediatar.csproj",
+        "packagesPath": "C:\\Users\\Suti\\.nuget\\packages\\",
+        "outputPath": "C:\\Suli\\Code\\C#\\Mediatar\\Mediatar\\Mediatar\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\suto.bence\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Suti\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +35,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -60,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

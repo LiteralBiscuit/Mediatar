@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mediatar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+580a3f7d84252b0f8311f2790a1206ad2ed8ab48")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2d6ffc29eedc47fbfe5a894b81efb7526ba43c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mediatar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mediatar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
