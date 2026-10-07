@@ -1,13 +1,13 @@
 ﻿namespace Mediatar
 {
-    public class Magazine : Entity
+    public class Magazine : Item
     {
         private string _issues = "";
 
 		public string Issues
 		{
 			get { return _issues; }
-			set { if (string.IsNullOrWhiteSpace(value)) throw new ArgumentException();  _issues = value; }
+			set { if (string.IsNullOrWhiteSpace(value)) { idGenHelper--; throw new ArgumentException(); } _issues = value; }
 		}
 
         public Magazine(string title, string? author, int relaseYear, string issues) : base()
@@ -17,12 +17,8 @@
             RelaseYear = relaseYear;
             Issues = issues;
             LateFeePerDay = 50;
+            RentLength = 7;
             Catalouge.Add(this);
-        }
-
-        public override int CalculateDebt(DateTime expDate, DateTime actualDate, Tag tag)
-        {
-            throw new NotImplementedException();
         }
     }
 }
